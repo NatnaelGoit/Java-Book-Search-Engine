@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "books",
+			"path": "../C0_SearchEngine/books"
+		},
+		{
+			"name": "C0_Media",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
