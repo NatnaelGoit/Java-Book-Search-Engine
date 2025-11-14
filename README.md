@@ -1,4 +1,4 @@
-# BookFinder-Java
+# Java Book Indexer
 
 A command line book search tool written in Java that uses an inverted index to search book content and return results ordered by user ratings
 
