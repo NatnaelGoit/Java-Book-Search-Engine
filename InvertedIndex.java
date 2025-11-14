@@ -17,7 +17,6 @@ public class InvertedIndex {
         System.out.println(result);
     }
 
-    // TODO: Write and document your createIndex method here
     public static Map<String, Set<Media>> createIndex(List<Media> docs) {
         Objects.requireNonNull(docs, "docs cannot be null");
 
